@@ -3,7 +3,7 @@ function myClick() {
   setTimeout(
     function() {
       window.location.reload();
-    }, 175);
+    }, 75);
 }
 
 
